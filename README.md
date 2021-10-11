@@ -1,2 +1,2 @@
-Shopify_Winter_2022_Data_Science_Intern_Challenge
+Shopify Winter 2022 Data Science Intern Challenge
 Answers to the Shopify Data Science Challenge
